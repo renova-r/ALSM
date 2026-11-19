@@ -11,10 +11,8 @@
 MLS(MSE1, df1, c1, MSE2, df2, c2, alpha = 0.05)
 }
 %- maybe also 'usage' for other objects documented here.
-\arguments{mse1
-  \item{MSE1}{
-%%     ~~Describe \code{MSE1} here~~
-}
+\arguments{
+  \item{MSE1}{mean square of the first source of variation (with \code{df1} degrees of freedom)}
   \item{df1}{df1
 %%     ~~Describe \code{df1} here~~
 }

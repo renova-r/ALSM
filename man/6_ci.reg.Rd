@@ -20,7 +20,7 @@ ci.reg(model, newdata, type = c("b", "s","w","n","m","nm","gn"), alpha = 0.05,m=
 Estimation of Mean Response and Prediction
 of New Observation:
 
-Interval Estimation of E{Y_h}
+Interval Estimation of E\{Y_h\}
 
 Confidence Region for Regression Surface. WorkingHotelling confidence band
 
